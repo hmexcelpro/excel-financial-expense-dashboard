@@ -66,6 +66,22 @@ The Excel workbook includes sections for:
 
 ---
 
+## 🌐 Available Languages
+
+This project is available in two versions:
+
+**English Version**  
+`HMexcelpro_Financial_Dashboard_EN.xlsx`
+
+**Persian Version | نسخه فارسی**  
+`HMexcelpro_Financial_Dashboard_FA.xlsx`
+
+A bilingual English-Persian user guide is also included:
+
+`HMexcelpro_Financial_Dashboard_Bilingual_Guide.pdf`
+
+---
+
 ## 🛠️ Skills Demonstrated
 
 - Microsoft Excel
